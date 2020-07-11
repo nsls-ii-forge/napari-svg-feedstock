@@ -23,6 +23,7 @@ requirements:
   run:
     - python >=3.6
     - imageio
+    - importlib_metadata
     - napari-plugin-engine
     - numpy
     - vispy
