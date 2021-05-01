@@ -1,6 +1,6 @@
 {% set name = "napari-svg" %}
-{% set version = "0.1.4" %}
-{% set sha256 = "7e0cb5af0e98948cdc9719becec6c0641159444adf33b8b9ba538d0faee75b55" %}
+{% set version = "0.1.5" %}
+{% set sha256 = "7b0c9dfb66d63a251f550c074e1b11d177aaea7a61dd19fcdaed87739c441bfd" %}
 
 package:
   name: {{ name|lower }}
